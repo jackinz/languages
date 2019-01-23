@@ -1,4 +1,4 @@
 ﻿20190123
 s Häkchen
-abhaken
+abhaken		打勾
 abhacken	砍头
