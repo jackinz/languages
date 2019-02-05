@@ -1,4 +1,8 @@
-﻿20190123
+﻿20190205
+einklemmen	夹住
+eingeklemmt	（手指被）夹住了
+
+20190123
 s Häkchen
 abhaken		打勾
 abhacken	砍头
