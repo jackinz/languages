@@ -1,6 +1,13 @@
-﻿20190205
+﻿20190207
+verträglich	易消化的
+Ibuprofen ist verträglich
+
+blechen	付钱
+Ich soll fünfzehn Euro blechen, nur weil ich mit dem Fahrrad auf der falschen Seite gefahren bin!
+
+20190205
 einklemmen	夹住
-eingeklemmt	（手指被）夹住了
+eingeklemmt	（手指被）夹了
 
 20190123
 s Häkchen
