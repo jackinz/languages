@@ -1,4 +1,9 @@
-﻿20190227
+﻿20190312
+r Ranzen	背包
+e Trikots	运动服
+verlässlich	可靠的
+
+20190227
 e Behandlung	治疗
 
 20190218

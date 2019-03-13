@@ -1,0 +1,17 @@
+20190305
+Uno
+Ciao
+Grazie-Prego
+Salida
+
+uno
+due
+tre
+quattro
+cinque
+
+sei
+sette
+otto
+nove
+dieci
