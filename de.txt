@@ -1,4 +1,19 @@
-﻿20190312
+﻿20190315
+richtig:
+den kann man einfach vergessen.
+
+falsch:
+der kann man einfach vergessen.
+
+kündigen
+ankündigen
+Ich habe meine Kündigung angekündigt.
+
+monoton		单调
+monochrome	单色
+
+
+20190312
 r Ranzen	背包
 e Trikots	运动服
 verlässlich	可靠的
