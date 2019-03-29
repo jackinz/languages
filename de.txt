@@ -1,4 +1,16 @@
-﻿20190315
+﻿20190328
+richtig:
+nicht genug Wasser
+
+falsch:
+kein genug Wasser
+
+Schwäbisch
+Drallawatsch
+läbblbäbbl
+
+
+20190315
 richtig:
 den kann man einfach vergessen.
 
