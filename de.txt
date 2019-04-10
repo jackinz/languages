@@ -1,4 +1,12 @@
-﻿20190328
+﻿20190410
+recherchieren	调查
+rekonstruieren	重建
+
+ermutigen	鼓励
+
+Vorstellung	介绍
+
+20190328
 richtig:
 nicht genug Wasser
 
