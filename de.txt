@@ -1,4 +1,10 @@
-﻿20190410
+﻿20190412
+Waschmittel
+Ariel, Ajax, Omo, Tode, Persil, Frosch
+
+schürfen	挖矿
+
+20190410
 recherchieren	调查
 rekonstruieren	重建
 
