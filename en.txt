@@ -1,4 +1,8 @@
-﻿
+﻿20190423
+bucket	桶
+backet	篮子
+
+
 20190409
 brand 商标	Brand 火灾
 regal 帝王的	Regal 架子shelf
