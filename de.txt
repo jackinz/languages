@@ -1,4 +1,45 @@
-﻿20190410
+﻿
+20190423
+s Horn	Einhorn, Nashorn
+s Pferd	Nilpferd
+r Elefant
+	r Stoßzahn
+	r Rüssel
+
+Angele	女名
+Ning
+Engel	天使
+klingeln
+
+bald		bald (kahl)
+sensibel	sensibel (vernüftig)
+Gabelstapler	Stapler (Tacker, Hefter)
+Fabrik		fabrik (Stoff，布料)
+
+vorgestern	the day before yesterday
+gestern		yesterday
+heute		today
+morgen		tomorrow
+übermorgen	the day after tomorrow
+
+vorletzt	... before last
+letzt		last
+nächst		next
+übernächst	... after next
+
+chs
+Fuchs
+nächst	
+
+
+20190412
+Waschmittel
+Ariel, Ajax, Omo, Tode, Persil, Frosch
+
+schürfen	挖矿
+abgeschürft	擦伤了
+
+20190410
 recherchieren	调查
 rekonstruieren	重建
 
