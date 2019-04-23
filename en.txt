@@ -9,7 +9,8 @@ COO	Chief Operating Officer		首席运行官
 
 ﻿20190423
 bucket	桶
-backet	篮子
+basket	篮子
+packet	数据包
 
 20190409
 brand 商标	Brand 火灾
