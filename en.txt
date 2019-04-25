@@ -1,7 +1,16 @@
+20190424
+CEO	Chief Executive Officer		首席行政官	execute 执行，处决
+CFO	Chief Financial Officer		首席财经官
+CTO Chief Technology Officer	首席技术官
+CIO Chief Information Officer	首席信息官
+CLO Chief Law Officer			首席法务官
+CXO	Chief Experience Officer	首席体验官
+COO	Chief Operating Officer		首席运行官
+
 ﻿20190423
 bucket	桶
-backet	篮子
-
+basket	篮子
+packet	数据包
 
 20190409
 brand 商标	Brand 火灾
