@@ -1,4 +1,7 @@
-﻿
+﻿20190425
+r Klee	三叶草，比如说苜蓿
+
+
 20190423
 s Horn	Einhorn, Nashorn
 s Pferd	Nilpferd
