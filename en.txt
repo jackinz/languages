@@ -1,4 +1,20 @@
-﻿20190424
+﻿20190502
+mp是天然组合，np发音不舒服，唯一例外input是2个词的合成词。其他词如impoosible, computer都是mp
+qu是天然组合，q后必有u
+
+打手机
+It is really bad line.
+you keep breaking up.		你快要断线啦。
+my battery is very low.
+we are going to get cut off.
+
+打电话
+Please hold on while I get a pen.
+I've been trying to call Erik but I can't get through.
+Thanks for calling.
+
+
+20190424
 CEO	Chief Executive Officer		首席行政官	execute 执行，处决
 CFO	Chief Financial Officer		首席财经官
 CTO 	Chief Technology Officer	首席技术官
