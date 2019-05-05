@@ -5,3 +5,13 @@
 腐入
 残念
 大欢迎
+
+20181001
+Wasabi	芥末
+Sushi	寿司
+Sashimi	刺身
+
+
+20171001
+r Tsunami	津波，海啸
+r Taifun	台风
