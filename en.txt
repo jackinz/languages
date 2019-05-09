@@ -1,4 +1,7 @@
-﻿20190502
+﻿20190508
+posttip	便笺
+
+20190502
 mp是天然组合，np发音不舒服，唯一例外input是2个词的合成词。其他词如impoosible, computer都是mp
 qu是天然组合，q后必有u
 
