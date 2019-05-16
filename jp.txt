@@ -1,4 +1,15 @@
-﻿20190507
+﻿20190515
+fuku	福
+shima	岛
+yama	山	yamaha山下，fukuyama福山
+hiro	广
+to	东
+kyo	京
+ni	日
+hon	本
+ha	下
+
+20190507
 Fukushima	福岛
 Hiroshima	广岛
 Nihon		日本

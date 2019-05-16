@@ -1,5 +1,36 @@
-﻿20190513
+﻿20190515
+音译词
+威亚	wire	吊威亚（吊钢丝绳）
+
+20190514
+En	De
+see	See (lake, sea)
+brave	brav
+rat	Rat (advise) Rathaus (Townoffice)
+hell	hell
+mist	Mist
+gift	r Gift 毒药
+wink 眨眼；小睡	winken 挥手
+
+发音z
+please
+easy
+organised
+languages
+presentation
+
+发音s
+some
+soft
+sale
+say
+face
+
+
+
+20190513
 back out	说话不算话
+you backed out.
 
 20190508
 posttip	便笺
