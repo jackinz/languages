@@ -1,4 +1,18 @@
-﻿20190515
+﻿20190521
+Panasonic	松下
+Sony		索尼
+Hitachi		日立
+Daihasu		
+Mishubishi	三菱
+Kawasaki	川崎
+Nissan		日产，尼桑 
+Suzuki		铃木
+Isuzu		五十铃
+Honda		本田
+Toyota		丰田
+Yamaha		雅马哈，山下
+
+20190515
 fuku	福
 shima	岛
 yama	山	yamaha山下，fukuyama福山
