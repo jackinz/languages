@@ -1,4 +1,9 @@
-﻿20181015
+﻿20190523
+an nyon hä sai yo	你好（安宁）
+an nyon			再见（安宁）
+sa lang he		我爱你
+
+20181015
 Kim	金
 Kimchi	泡菜
 Okims	Hard一家韩餐馆

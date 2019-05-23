@@ -2,7 +2,7 @@
 Panasonic	松下
 Sony		索尼
 Hitachi		日立
-Daihasu		
+Daihatsu	大发（大阪发动机）	
 Mishubishi	三菱
 Kawasaki	川崎
 Nissan		日产，尼桑 
