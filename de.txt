@@ -1,6 +1,9 @@
 ﻿20190524
 r Riss -e	裂缝
+r Knackpunkt	折断点，形容不牢固的地方
 
+Selenium	硒；网页测试工具
+Silizium	硅
 
 20190523
 streiten	吵架
