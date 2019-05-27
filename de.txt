@@ -4,7 +4,10 @@ Hausarbeit	家里的活（装家具，花园的活）
 
 Schiedrichter	裁判
 Schieß ein Tor	加油口号
+Elfmeterschuß	典球
 
+Pollen	花粉，短o
+Polen	波兰人，长o
 
 20190524
 r Riss -e	裂缝
