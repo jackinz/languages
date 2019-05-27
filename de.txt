@@ -1,4 +1,12 @@
-﻿20190524
+﻿20190527
+Hausaufgabe	家庭作业（学校布置的）
+Hausarbeit	家里的活（装家具，花园的活）
+
+Schiedrichter	裁判
+Schieß ein Tor	加油口号
+
+
+20190524
 r Riss -e	裂缝
 r Knackpunkt	折断点，形容不牢固的地方
 
