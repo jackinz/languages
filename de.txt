@@ -1,4 +1,11 @@
-﻿20190527
+﻿20180528
+pitschnass	淋透的
+Pisswetter	下雨天
+Knackpunkt	折断点
+mopsen		偷
+schief laufen	出问题
+
+20190527
 Hausaufgabe	家庭作业（学校布置的）
 Hausarbeit	家里的活（装家具，花园的活）
 
