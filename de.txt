@@ -1,4 +1,7 @@
-﻿20190604
+﻿20190605
+s Moos	苔藓	
+
+20190604
 abschieben	驱逐
 r Einstand	入职
 r Ausstand	离职
