@@ -1,4 +1,10 @@
-﻿20180528
+﻿20190604
+abschieben	驱逐
+r Einstand	入职
+r Ausstand	离职
+r Koch		厨师	
+
+20180528
 pitschnass	淋透的
 Pisswetter	下雨天
 Knackpunkt	折断点
