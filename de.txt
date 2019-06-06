@@ -1,4 +1,12 @@
-﻿20190605
+﻿20190606
+sporadisch	偶尔的
+ein sporadischer Fehler	一个偶尔发生的错误
+
+s Sperrrad	棘轮
+s Zahnrad	齿轮
+die Kurve kratzen	赶快溜走，e.g.： lasse mir die Kurve kratzen
+
+20190605
 s Moos	苔藓	
 
 20190604
