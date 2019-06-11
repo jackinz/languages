@@ -1,4 +1,20 @@
-﻿20190527
+﻿20190611
+trip	（汽车）旅行
+travel	（飞机）旅行
+
+none - few(little) - a few (a little) - some - enough - plenty of - a lot of, lots of - many (much)
+
+much一般用于否定句
+
+
+I have no clue.	Ich habe keine Ahnung.
+
+--to make things clear
+sorry, i missed that, could you say it again?
+can you go over that again, please?
+can you run through that again, please?
+
+20190527
 One hundred percent = yes
 Believe me
 I tell you this
