@@ -1,5 +1,24 @@
+<<<<<<< HEAD
 ﻿20190610
 delink	脱离
+=======
+﻿20190611
+trip	（汽车）旅行
+travel	（飞机）旅行
+
+none - few(little) - a few (a little) - some - enough - plenty of - a lot of, lots of - many (much)
+
+much一般用于否定句
+a lot of people are my friends.
+lots of water is being wasted every day.
+
+I have no clue.	Ich habe keine Ahnung.
+
+--to make things clear
+sorry, i missed that, could you say it again?
+can you go over that again, please?
+can you run through that again, please?
+>>>>>>> b3d693852e00fa1a1f9c0287a8e410d673a9ead6
 
 20190527
 One hundred percent = yes
