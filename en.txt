@@ -5,7 +5,8 @@ travel	（飞机）旅行
 none - few(little) - a few (a little) - some - enough - plenty of - a lot of, lots of - many (much)
 
 much一般用于否定句
-
+a lot of people are my friends.
+lots of water is being wasted every day.
 
 I have no clue.	Ich habe keine Ahnung.
 
