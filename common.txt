@@ -1,2 +1,11 @@
-Zh	你好	再见	谢谢	不用谢	请		对不起
-De	hallo	tschüss	danke	bitte	bitte	entschuldigung
+Zh	你好	再见	谢谢		不用谢			请		对不起			我爱你
+En	hello	bye		thank you	you are welcome	please	sorry			I love you
+De	hallo	tschüss	danke		bitte			bitte	entschuldigung	ich liebe dich
+
+Jp														斯密马赛
+Kr
+Th
+
+Fr
+It
+Es
