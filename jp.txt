@@ -3,6 +3,10 @@ Kimono	和服
 Wasabi	芥末
 Sushi	寿司
 Sashimi	刺身
+Fujiyama	富士山
+Sakura	樱花
+Yamato	大和
+Musashi	武藏
 
 20190524
 驻车场
@@ -41,10 +45,10 @@ ha	下
 Fukushima	福岛
 Hiroshima	广岛
 Nihon		日本
-Honda		本田
-Toyota		丰田
 Tokyo		东京
 Kyoto		京都
+Osaka		大阪
+Nara-Ken	奈良
 
 20190424
 赏味期

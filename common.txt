@@ -3,7 +3,7 @@ En	hello	bye		thank you	you are welcome	please	sorry			I love you
 De	hallo	tschüss	danke		bitte			bitte	entschuldigung	ich liebe dich
 
 Jp														斯密马赛
-Kr
+Kr																		
 Th
 
 Fr
