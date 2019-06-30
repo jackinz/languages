@@ -15,7 +15,6 @@ Musashi	武藏
 米国	美国
 大统领	总统
 
-
 20190521
 Panasonic	松下
 Sony		索尼
@@ -33,7 +32,8 @@ Yamaha		雅马哈，山下
 20190515
 fuku	福
 shima	岛
-yama	山	yamaha山下，fukuyama福山
+yama	山	yamaha山下，fukuyama福山，fujiyama富士山
+hon		本	honda本田，nihon日本
 hiro	广
 to	东
 kyo	京
