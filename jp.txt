@@ -3,10 +3,13 @@ Kimono	和服
 Wasabi	芥末
 Sushi	寿司
 Sashimi	刺身
-Fujiyama	富士山
+Fujiyama	富士山	ふじさん
 Sakura	樱花
-Yamato	大和
+YamaTo	大和	やまと
 Musashi	武藏
+
+ShoWa	昭和	しょうわ
+ReiWa	令和	れいわ
 
 20190524
 驻车场
