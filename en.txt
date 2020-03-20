@@ -1,3 +1,16 @@
+20200113
+pagination	分页
+scoped		有范围的
+
+20191215
+scene	场景
+frame	帧
+stereo	立体声
+
+20191123
+sketch	素描
+scratch	斯卡奇，MIT的少儿编程软件
+
 20190623
 苹果	蛇果	red delicious
 菠萝	凤梨
@@ -5,7 +18,6 @@
 樱桃	车厘子	cherries
 番石榴	芭乐
 葡萄	提子
-
 
 ﻿20190611
 trip	（汽车）旅行
@@ -39,9 +51,11 @@ Don't tell anyone, but the wifi password is "martians".
 
 20190524
 positive chemistry	积极的化学反应
-stay tuned		敬请期待
+stay tuned	敬请期待
 
-silicon village		硅谷
+silicon village	硅谷
+Selenium		硒
+
 
 20190515
 音译词
