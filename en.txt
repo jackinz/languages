@@ -1,3 +1,11 @@
+20201116
+account manager	客户经理
+long term	长期
+
+accept	接受（建议）
+reject	拒绝（建议）
+refuse	拒绝（好意）
+
 20201009
 口语
 okay

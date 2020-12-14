@@ -1,3 +1,123 @@
+20201209
+Zigeuner	吉普赛人
+Notre-Dame de Paris	巴黎圣母院
+Kolosseum	罗马斗兽场
+
+20201130
+r Handwerker	工匠
+e Werkstatt	车间
+
+20201123
+r Sprudel	汽水
+e Sprudelflasche
+gravieren	雕刻
+Boule		布l球（法语）
+r Knödel	带面包屑的面粉球		
+
+
+发音问题
+Bällchen发成了bärchen
+in der Nähe发成了in der Nahe
+Sprudel发成了Spudel
+
+
+20201118
+中国人常见发音拼写错误
+Hagnau
+Hagenau
+
+Donner和Blitz
+Rock和Kleid
+Blitz Blitze
+Rock Röcke
+
+r Dreckspatz
+r Spitzer
+r Spirale	螺旋线
+e Spritze	
+
+Abfluss	下水道
+Abflussbogen	下水道U型管
+
+20201111
+e Zwille	弹弓
+r Marder	貂
+r Dachs		獾
+r Lachs		鲑鱼
+r Fuchs		狐狸
+
+ch有3种读音：
+China
+Buch
+Fuchs Lachs
+
+20201023
+s Telefon -e
+s Telefonat	-e
+
+20201021
+s Quartal	季度
+s Quarantäne	隔离
+
+r Tourist -en
+r Terrorist -en
+
+
+德语像唱歌
+中文像画画
+
+
+20201015
+Die Deutschen sind konservativ.	保守的
+Ich bin Informatiker vom Beruf.
+Was arbeitest du?
+Chinesen haben keine Privatsphäre.
+
+verteidigen
+Abwehr
+decken
+
+20201012
+Es ist viel los.	人好多。
+
+Tire und Pflanzen breiten sich auf den Winter vor.
+An den Bäumen und Sträuchen werden die Blätter bunt.
+Die Zugvögel fliegen in den waren Süden.
+
+In den Gärten sind Äpfel, Birnen und Pflaumen reif.
+Am boden liegen Eicheln und Kastanien.
+Die Kinder sammeln sie und basteln lüstige Figuren.
+
+20201009
+r Siebenmeilenstiefel
+
+fel
+r Stiefel
+e Kartoffel
+
+tel
+r Titel
+r Zettel
+r Beutel
+r Gürtel
+s Lebensmittel
+
+
+ern
+dauern
+feiern
+ändern
+anfordern
+verbessern
+
+20200903
+e Roulade
+r Rollladen
+
+Scheide		
+Scheidt		老板名
+Scheidung	离婚
+
 20201006
 ich drücke dir die Daumen.
 die Daumen drücken
@@ -36,36 +156,6 @@ Wellhäuser
 Rufenfest
 Vetter Pharma
 Rapp
-
-20201009
-r Siebenmeilenstiefel
-
-fel
-r Stiefel
-e Kartoffel
-
-tel
-r Titel
-r Zettel
-r Beutel
-r Gürtel
-s Lebensmittel
-
-
-ern
-dauern
-feiern
-ändern
-anfordern
-verbessern
-
-20200903
-e Roulade
-r Rollladen
-
-Scheide		
-Scheidt		老板名
-Scheidung	离婚
 
 20200818
 akku in Angriff nehmen
