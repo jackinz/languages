@@ -1,3 +1,8 @@
+20210201
+Hocker	凳子
+Hütte	小木屋
+Haken	钩子
+
 20210111
 reimen	押韵
 
