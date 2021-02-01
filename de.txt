@@ -1,4 +1,10 @@
 20210201
+ch
+1,在a, u, au后发喝，Schach, Buch, brauchen, Rauch, tauchen
+2,在chs中发克，Lachs, Fucks, Dachs
+3,在开头发希，或者克，China, Chemie
+
+20210131
 Hocker	凳子
 Hütte	小木屋
 Haken	钩子
