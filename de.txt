@@ -1,8 +1,19 @@
+20210202
+wachen	站岗
+r Wächter	守卫者
+
+e Nadel	针
+r Nagel	钉子；指甲
+r Nabel 肚脐
+r Nebel 雾
+s Narbe 伤疤
+
 20210201
 ch
 1,在a, u, au后发喝，Schach, Buch, brauchen, Rauch, tauchen
 2,在chs中发克，Lachs, Fucks, Dachs
-3,在开头发希，或者克，China, Chemie
+3,在开头发希，方言发克，China, Chemie
+4,在开头一定发克，Christ
 
 20210131
 Hocker	凳子
@@ -31,7 +42,7 @@ Grossveranstahltung Lebensfroh und Kampfbereit
 
 20201214
 Hühnerfrikassee	鸡肉重汁饭
-Bredle			圣诞节小饼干
+Bredle		圣诞节小饼干
 
 20201209
 Zigeuner	吉普赛人
