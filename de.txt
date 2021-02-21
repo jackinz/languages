@@ -1,6 +1,29 @@
+20210220
+behutsam	小心翼翼的
+Teufelchen	小魔鬼
+Bengelchen	小淘气
+s Gespenst	鬼怪
+
+ich drücke dir die Daumen
+ich bin stolz auf dich
+
+das kleine Gespenst	小鬼
+
+组合词
+Kranken Versicherung
+Haftpflicht Versicherung
+Rechtschutz Versicherung
+Hausrat Versicherung
+
 20210202
 wachen	站岗
 r Wächter	守卫者
+Frau Wachter
+
+Frau Sommer
+Frau Kreutle
+Frau Sekul
+Frau Klapper
 
 e Nadel	针
 r Nagel	钉子；指甲
