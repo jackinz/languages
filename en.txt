@@ -1,3 +1,14 @@
+20210303
+脱口秀	talk show
+秀		show
+趴		party
+嗨		high
+血拼	shopping
+麻豆	model
+粉丝	fans
+酷		cool
+蕾丝	lace
+
 20210221
 PUA Pick-Up Artist	泡妞高手
 
@@ -95,15 +106,6 @@ at有更强的方向感
 a dog is running to me 可爱
 a dog is running at me 可怕
 laugh at, at(@) somebody, at 8 clock
-
-脱口秀	talk show
-秀		show
-趴		party
-嗨		high
-血拼	shopping
-麻豆	model
-粉丝	fans
-酷		cool
 
 20200914
 word stress	重音
