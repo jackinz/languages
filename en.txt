@@ -1,6 +1,13 @@
+20210308
+corner case	难例
+
 20210304
 UGC模式
 User Generated Content
+
+ICT	信息与通信
+Information Communication Technology
+
 
 20210303
 脱口秀	talk show
@@ -13,6 +20,8 @@ User Generated Content
 酷		cool
 蕾丝	lace
 威亚	wire
+镭射	laser
+迷你	mini
 
 20210221
 PUA Pick-Up Artist	泡妞高手

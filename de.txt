@@ -1,3 +1,16 @@
+20210321
+农作物播种到收获
+1, pflügen, eggen, säen, walzen
+2, keimen, wachsen, blühen, reifen, prüfen
+3, dengeln, wetzen, mähen, binden, aufstellen, aufladen
+4, rechen, dreschen, worfeln, füllen, speichern
+
+主要农作物
+r Reis
+r Mais
+s Weizen	小麦
+s Gerste	大麦
+
 20210304
 Freude -n	高兴，快乐
 
@@ -49,7 +62,7 @@ s Narbe 伤疤
 20210201
 ch
 1,在a, u, au后发喝，Schach, Buch, brauchen, Rauch, tauchen
-2,在chs中发克，Lachs, Fucks, Dachs
+2,在chs中发克，Lachs, Fucks, Dachs, nächst, wachsen
 3,在开头发希，方言发克，China, Chemie
 4,在开头一定发克，Christ
 
