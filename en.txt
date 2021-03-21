@@ -1,6 +1,12 @@
 20210308
 corner case	难例
 
+might is right	强权即公理
+no pain no gain	无劳则无获
+no money no honey	没钱没爱情 
+
+SRE	Site Reliability Engineer 网站可靠性工程师
+
 20210304
 UGC模式
 User Generated Content
