@@ -38,6 +38,7 @@ Information Communication Technology
 威亚	wire
 镭射	laser
 迷你	mini
+败		buy
 
 20210221
 PUA Pick-Up Artist	泡妞高手
