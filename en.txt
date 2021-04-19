@@ -1,4 +1,7 @@
+keywords: (ay) (aw) (en) (acronymize) (rhyme)
+
 20210407
+(ay)
 stay
 gay
 Ray
@@ -6,11 +9,24 @@ Taylor
 clay
 Okay
 
-yolo you look only once, you live only once
+(aw)
+saw
+paw		兽爪
+claw	鸟爪
+draw
+law
+lawn	草坪
+
+soul mate	灵魂伴侣
+
+(acronymize)
+yolo you look only once
+yolo you live only once
 
 20210308
 corner case	难例
 
+(rhyme)
 might is right	强权即公理
 no pain no gain	无劳则无获
 no money no honey	没钱没爱情 
@@ -18,14 +34,16 @@ no money no honey	没钱没爱情
 SRE	Site Reliability Engineer 网站可靠性工程师
 
 20210304
+(acronymize)
 UGC模式
 User Generated Content
 
-ICT	信息与通信
+ICT信息与通信
 Information Communication Technology
 
 
 20210303
+(en)
 脱口秀	talk show
 秀		show
 趴		party
