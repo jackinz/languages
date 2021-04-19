@@ -37,6 +37,8 @@ raw		生的
 yaw		偏航角
 jaw		下巴
 dawn	黎明
+hawk	鹰
+yawn	打哈欠
 
 soul mate	灵魂伴侣
 
