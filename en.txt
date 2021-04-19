@@ -1,21 +1,42 @@
-keywords: (ay) (aw) (en) (acronymize) (rhyme)
+keywords: 
+(ay) (aw) (ight) (age)
+(en) (acronymize) (rhyme)
+
+20210419
+(ight) [aɪt]
+might
+right
+fight
+flight
+
+(age) [ɪdʒ]
+message
+marriage
+carriage
 
 20210407
-(ay)
+(ay) [eɪ]
 stay
 gay
 Ray
 Taylor
 clay
 Okay
+Barclay
+pay
+may
 
-(aw)
+(aw) [ɔː]
 saw
 paw		兽爪
 claw	鸟爪
 draw
 law
 lawn	草坪
+raw		生的
+yaw		偏航角
+jaw		下巴
+dawn	黎明
 
 soul mate	灵魂伴侣
 
@@ -45,6 +66,7 @@ Information Communication Technology
 20210303
 (en)
 脱口秀	talk show
+麦克风		microphone
 秀		show
 趴		party
 嗨		high
