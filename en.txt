@@ -15,6 +15,10 @@ circuit
 卡路里	calorie	热量
 多巴胺	dopamine
 
+20210430
+take what you can
+give nothing back
+
 20210420
 (double)
 shipping

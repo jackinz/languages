@@ -5,11 +5,11 @@ e Vorgehensweise	步骤
 	die konkrete Vorgehensweise
 e Anforderung		要求
 	die Aufgabe stellt hohe Anforderungen an Geist und Ausdauer
-e Nachfrage			（市场上的）需求
+e Nachfrage		（市场上的）需求
 	danke der Nachfrage.
 	die Nachfrage geht zurück.
 e Vertretung		代理
-r Vertreter			代理人
+r Vertreter		代理人
 
 
 20210420
