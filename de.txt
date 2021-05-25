@@ -1,4 +1,6 @@
 20210510
+e 7-Tage-Inzidenz
+
 r Löwenzahn
 s Gänseblümchen
 
