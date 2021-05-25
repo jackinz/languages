@@ -1,3 +1,8 @@
+20210525
+Auftragszeit: Rüstzeit + Ausführungszeit
+
+jede hat 3 Teile: Grundzeit, Erholungszeit, Verteilzeit
+
 20210510
 e 7-Tage-Inzidenz
 
