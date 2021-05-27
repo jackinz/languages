@@ -1,3 +1,9 @@
+20210527
+Wasserstoff
+Sauerstoff
+Brennstoff: s Öl, s Erdgas, e Kohle
+Kraftstoff: s Benzin, r Diesel, s Methan
+
 20210525
 Auftragszeit: Rüstzeit + Ausführungszeit
 
