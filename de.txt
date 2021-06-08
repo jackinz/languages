@@ -1,4 +1,47 @@
+[词性]
+20210606
+Teufelchen	小魔鬼
+Bengelchen	小调皮
+Engelchen	小天使
+
+alter Falter	老蛾
+
+r Adler	老鹰
+e Falte	皱纹
+
+20210605
+[词性]
+e Mosel
+r Rhein
+s Eck
+
+r Vater	
+e Mutter 
+s Kind
+
+e Gabel
+r Löffel
+s Messer
+
+r Zucker
+r Pfeffer
+s Salz
+
+r Mond
+e Sonne
+
+r Tag
+e Nacht
+
+r Baum
+e Blume
+
+s Wasser, Salz, Geld, Gold, Silber, Auto, Haus, Kind, Buch, Wert, Ehre, Vertrauen
+e Liebe, Freundschaft, Leidenschaft
+
+
 20210527
+r Stoff
 Wasserstoff
 Sauerstoff
 Brennstoff: s Öl, s Erdgas, e Kohle
