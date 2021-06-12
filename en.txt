@@ -3,6 +3,16 @@ keywords:
 (en) (acronymize) (rhyme) (double)
 [发音]
 
+20210612
+ASAP	As soon as possible
+FYI		For Your Information
+
+My cellphone ran out of credit.	没钱了。
+I am out of data.	没流量了。
+My cell phone is out of power.	没电了。
+I've got bad.	没信号了。
+My phone keeps dropping calls.
+
 20210605
 3D Job
 dirty
