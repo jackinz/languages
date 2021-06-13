@@ -3,14 +3,25 @@ keywords:
 (en) (acronymize) (rhyme) (double)
 [发音]
 
+20210613
+stimulate	刺激
+sustainable	合理利用的
+protein		蛋白质
+shelf life	保质期	
+aims to		旨在
+mild preservation	常温保存
+green peas	绿豌豆
+carrot pomace	胡萝卜渣
+
+
 20210612
 ASAP	As soon as possible
-FYI		For Your Information
+FYI	For Your Information
 
 My cellphone ran out of credit.	没钱了。
 I am out of data.	没流量了。
 My cell phone is out of power.	没电了。
-I've got bad.	没信号了。
+My cellphone is out signal.	没信号了。
 My phone keeps dropping calls.
 
 20210605
@@ -24,14 +35,19 @@ fyi	for your information
 
 20210522
 french kiss	舌吻
+french fries	（麦当劳）薯条
 
 20210517
 keep it simple	--Einstein
 
 20210510
 [发音]
-u不发音
+ui发i
 circuit, build, buick
+
+ui发u:
+fruit
+juice
 
 top 10: apple, ms, amazon, google, facebook
 big 3: chrysler, gm, ford
@@ -80,6 +96,7 @@ Okay
 Barclay
 pay
 may
+tray	托盘	trays
 
 (aw) [ɔː]
 saw

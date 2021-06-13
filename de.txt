@@ -1,4 +1,46 @@
-[词性]
+[词性] [相似] [Dativ] [词根] [说不上来的话]
+----------------------------------------------------------
+20210613
+Kläranlage	污水处理厂
+
+Ritter Rüdiger, mit der langen Nase
+Ritter Rüdiger, 1000 Jahre alt
+Ritter Rüdiger, ängstlich wie ein Hase
+Ritter Rüdiger, ihm war viel zu kalt
+
+[词根] schaft
+e Freundschaft 友谊
+e Landschaft 风景
+e Wirtschaft 经济，小餐馆
+e Landwirtschaft	农业
+
+[词根] weise
+Normalerweise
+
+[词根] 
+
+[说不上来的话]
+Wirtschaftkrise	经济危机
+
+
+20210608
+[相似]
+e Tote	死人
+e Torte 蛋糕
+
+[Dativ]
+es tut mir gut
+es tut mir weh
+es tut mir leid
+
+es tut mir sehr leid
+es tut mir wicklich leid
+
+es ist mir kalt 我很冷
+
+es gefällt mir sehr gut 我很喜欢它
+
+
 20210606
 Teufelchen	小魔鬼
 Bengelchen	小调皮
@@ -27,6 +69,12 @@ r Zucker
 r Pfeffer
 s Salz
 
+r Cousin 苦尚
+e Cousine 苦si呢
+
+r Prinz	王子
+e Prinzessin 公主
+
 r Mond
 e Sonne
 
@@ -36,7 +84,17 @@ e Nacht
 r Baum
 e Blume
 
-s Wasser, Salz, Geld, Gold, Silber, Auto, Haus, Kind, Buch, Wert, Ehre, Vertrauen
+r Hund
+e Katze
+
+r Stecker
+e Steckdose
+
+r Schrauber(电动起子) / Schraubenzieher(起子)
+e Schraube
+
+s Wasser, Salz, Geld, Gold, Silber, Auto, Haus, Kind, Buch, Wert, Herz, Ehre, Vertrauen
+s Auge, Fenster
 e Liebe, Freundschaft, Leidenschaft
 
 
