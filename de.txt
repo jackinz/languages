@@ -1,5 +1,10 @@
 [词性] [相似] [Dativ] [词根] [说不上来的话]
 ----------------------------------------------------------
+20210615
+u.a.	und andere	以及其他
+u.ä.	und ähnliche	以及类似
+
+
 20210613
 Kläranlage	污水处理厂
 
@@ -13,6 +18,7 @@ e Freundschaft 友谊
 e Landschaft 风景
 e Wirtschaft 经济，小餐馆
 e Landwirtschaft	农业
+e Wissenschaft	科学
 
 [词根] weise
 Normalerweise

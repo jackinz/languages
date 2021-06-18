@@ -1,7 +1,14 @@
 keywords: 
-(ay) (aw) (ight) (age)
+(ay) (aw) (ight) (age) (ace)
 (en) (acronymize) (rhyme) (double)
 [发音]
+
+
+
+20210618
+(ace)
+fast pace
+space race
 
 20210613
 stimulate	刺激
@@ -140,7 +147,7 @@ Information Communication Technology
 20210303
 (en)
 脱口秀	talk show
-麦克风		microphone
+麦克风	microphone
 秀		show
 趴		party
 嗨		high
