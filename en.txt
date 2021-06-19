@@ -2,9 +2,7 @@ keywords:
 (ay) (aw) (ight) (age) (ace)
 (en) (acronymize) (rhyme) (double)
 [发音]
-
-
-
+----------------------------------------------------------------
 20210618
 (ace)
 fast pace
@@ -20,10 +18,9 @@ mild preservation	常温保存
 green peas	绿豌豆
 carrot pomace	胡萝卜渣
 
-
 20210612
 ASAP	As soon as possible
-FYI	For Your Information
+FYI		For Your Information
 
 My cellphone ran out of credit.	没钱了。
 I am out of data.	没流量了。

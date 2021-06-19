@@ -1,9 +1,28 @@
-[词性] [相似] [Dativ] [词根] [说不上来的话]
+[词性] [相似] [Dativ] [词根] [说不上来的话] [Abkürzung] [法语]
 ----------------------------------------------------------
+
+20210618
+[Abkürzung]
+Friedrich	Fritz
+Alexander	Alex
+
+[法语]
+r Cousin	堂兄，堂弟，表兄，表弟
+e Cousine	堂姐，堂妹，表姐，表妹
+e Regie	导演
+e Garage	车库
+s Restaurant	餐馆
+s Croissant	可颂
+s Portemonnaie	-s 小钱包
+r Champagner 香槟 g不发音
+r Champignon 蘑菇 g不发音
+r Champion	冠军 pin
+e Pommes frites	薯条	|pɔm ˈfrɪt|前后两个es都不发音，重音在第二个词上。
+
 20210615
+[Abkürzung]
 u.a.	und andere	以及其他
 u.ä.	und ähnliche	以及类似
-
 
 20210613
 Kläranlage	污水处理厂
@@ -23,10 +42,11 @@ e Wissenschaft	科学
 [词根] weise
 Normalerweise
 
-[词根] 
 
 [说不上来的话]
 Wirtschaftkrise	经济危机
+s Fell	皮毛
+e Überlebenstechnik	生存技能
 
 
 20210608
