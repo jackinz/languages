@@ -3,6 +3,21 @@ keywords:
 (en) (acronymize) (rhyme) (double)
 [发音]
 ----------------------------------------------------------------
+20210623
+cry
+dry
+fry fries
+try
+
+
+20210622
+outsourcing 外包
+nearshoring	近岸外包
+
+freelance	自由职业者
+upwork.com	外包平台
+
+
 20210618
 (ace)
 fast pace
@@ -115,6 +130,7 @@ jaw		下巴
 dawn	黎明
 hawk	鹰
 yawn	打哈欠
+awning	雨篷
 
 soul mate	灵魂伴侣
 
