@@ -1,5 +1,40 @@
-[词性] [相似] [Dativ] [词根] [说不上来的话] [Abkürzung] [法语]
+[词性] [相似] [Dativ] [词根] [说不上来的话] [Abkürzung] [法语] [Familienname] [名言] [Akkusativ] [Dativ]
 ----------------------------------------------------------
+
+20210628
+[Akkusativ]
+ich möchte mich scheiden lassen.
+ich freue mich darüber.
+
+[Dativ]
+es tut mir gut.
+es gefällt mir gut.
+es tut mir sehr leid.
+
+ich kann mein schlechtes Deutsch nicht aussetehen.
+
+[相似]
+r Richter	法官
+r Schiedsrichter	裁判
+
+entscheiden	决定
+scheiden	离婚
+
+Ich entscheide, mich scheiden zu lassen
+
+[名言] Nietsche
+Was mich nicht umbringt macht mich stärker.
+
+[Familienname]
+Müller	磨坊工
+Bäcker	面包师
+Spinner	纺织工
+Schneider	裁缝
+Schumacher	鞋匠
+Schmied	铁匠
+Schreiner	木匠
+Gärtner	园丁
+Fischer	渔夫
 
 20210623
 frisch	新鲜的
@@ -67,6 +102,15 @@ Normalerweise
 Wirtschaftkrise	经济危机
 s Fell	皮毛
 e Überlebenstechnik	生存技能
+
+pommes frites
+flat rate
+biontech
+nike
+
+Pandemie
+
+headset
 
 
 20210608

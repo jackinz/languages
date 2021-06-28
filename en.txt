@@ -9,12 +9,16 @@ dry
 fry fries
 try
 
+[发音]
+fresh
+fresh
+
 
 20210622
 outsourcing 外包
 nearshoring	近岸外包
 
-freelance	自由职业者
+freelance	自由职业
 upwork.com	外包平台
 
 
@@ -36,6 +40,7 @@ carrot pomace	胡萝卜渣
 20210612
 ASAP	As soon as possible
 FYI		For Your Information
+Never touch running system
 
 My cellphone ran out of credit.	没钱了。
 I am out of data.	没流量了。
