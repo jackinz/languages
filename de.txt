@@ -169,9 +169,11 @@ e Wissenschaft	科学
 [词根] weise
 normalerweise	通常
 
-
 [词根] mäßig
 regelmäßig	定期的
+
+[词根] mittel
+Verkehrsmittel	交通工具
 
 [说不上来的话]
 Wirtschaftkrise	经济危机
