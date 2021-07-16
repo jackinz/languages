@@ -1,10 +1,6 @@
-<<<<<<< HEAD
 (chs) (ch)
-[词性] [相似] [Dativ] [词根] [说不上来的话] [Abkürzung] [法语]
-=======
 [词性] [相似] [Dativ] [词根] [说不上来的话] [Abkürzung] [法语] [Familienname] [名言] [Akkusativ] [Dativ] [句式] [难辨]
->>>>>>> 70e4d5bfd46a7b2be249eab57635f90a3fc024d0
-----------------------------------------------------------
+
 20210713
 s Welfenfest
 r Adel	贵族
