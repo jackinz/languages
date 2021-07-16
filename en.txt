@@ -1,7 +1,7 @@
 keywords: 
 (ay) (aw) (ight) (age) (ace)
 (en) (acronymize) (rhyme) (double)
-[发音]
+[发音] [难辨]
 ----------------------------------------------------------------
 20210702
 good things come to those who wait.
@@ -28,6 +28,8 @@ fast pace in space race
 pace
 space
 race
+lace
+face
 
 20210613
 stimulate	刺激
@@ -105,6 +107,8 @@ might
 right
 fight
 flight
+fright
+night
 
 (age) [ɪdʒ]
 message
@@ -548,8 +552,9 @@ Fast Moving Consumer Goods
 
 
 20170918
+[难辨]
 custom	风俗，定制的
-Customs	海关
+customs	海关
 customer顾客
 
 20170905

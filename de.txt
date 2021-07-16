@@ -1,9 +1,28 @@
 [词性] [相似] [Dativ] [词根] [说不上来的话] [Abkürzung] [法语] [Familienname] [名言] [Akkusativ] [Dativ] [句式] [难辨]
 ----------------------------------------------------------
+20210713
+s Welfenfest
+r Adel	贵族
+s Adelsgeschlecht 贵族阶层
+r Eisbach	英国公园的小溪，Isar支流
+e Eisbachwelle
+r Globetrotter	一家大型体育用品店
+
+[词根] ant
+r Kandidat	考生，候选人
+Protokollant	记录者
+
+20210706
+ich baue auf dich.	靠你了
+ich baue auf euch.	靠你们了
+
+s Einweg-Essstäbchen	一次性筷子
+
 20210705
 [难辨]
 abstürzen	坠落
 r Absturz	坠落
+abgestürzt	坠落的
 r Sturm		大风
 r Stürmer	前锋
 
@@ -132,8 +151,11 @@ e Landwirtschaft	农业
 e Wissenschaft	科学
 
 [词根] weise
-Normalerweise
+normalerweise	通常
 
+
+[词根] mäßig
+regelmäßig	定期的
 
 [说不上来的话]
 Wirtschaftkrise	经济危机
