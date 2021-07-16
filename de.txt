@@ -1,6 +1,16 @@
 (chs) (ch)
 [词性] [相似] [Dativ] [词根] [说不上来的话] [Abkürzung] [法语] [Familienname] [名言] [Akkusativ] [Dativ] [句式] [难辨]
 
+20210716
+Verkehrsmittel
+s Auto
+r Wagen
+
+s Boot
+s Schiff
+
+s Flugzeug
+
 20210713
 s Welfenfest
 r Adel	贵族
@@ -9,9 +19,10 @@ r Eisbach	英国公园的小溪，Isar支流
 e Eisbachwelle
 r Globetrotter	一家大型体育用品店
 
+
 [词根] ant
 r Kandidat	考生，候选人
-Protokollant	记录者
+r Protokollant	记录者
 
 20210706
 ich baue auf dich.	靠你了
