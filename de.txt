@@ -1,6 +1,101 @@
+<<<<<<< HEAD
 (chs) (ch)
 [词性] [相似] [Dativ] [词根] [说不上来的话] [Abkürzung] [法语]
+=======
+[词性] [相似] [Dativ] [词根] [说不上来的话] [Abkürzung] [法语] [Familienname] [名言] [Akkusativ] [Dativ] [句式] [难辨]
+>>>>>>> 70e4d5bfd46a7b2be249eab57635f90a3fc024d0
 ----------------------------------------------------------
+20210713
+s Welfenfest
+r Adel	贵族
+s Adelsgeschlecht 贵族阶层
+r Eisbach	英国公园的小溪，Isar支流
+e Eisbachwelle
+r Globetrotter	一家大型体育用品店
+
+[词根] ant
+r Kandidat	考生，候选人
+Protokollant	记录者
+
+20210706
+ich baue auf dich.	靠你了
+ich baue auf euch.	靠你们了
+
+s Einweg-Essstäbchen	一次性筷子
+
+20210705
+[难辨]
+abstürzen	坠落
+r Absturz	坠落
+abgestürzt	坠落的
+r Sturm		大风
+r Stürmer	前锋
+
+lügen log gelogen
+Dann hat er gelogt.
+
+送的礼物不要多问
+Dem Geschenkten Gaul schaut man nicht ins Maul.
+送的劣马不要看牙口
+
+反义词
+locker-nervös	放松的-紧张的
+
+geschickt	巧妙的，麻利的
+abgeschickt	已发送的
+
+
+20210630
+r Knopf	按钮，纽扣
+r Knoten	结
+
+s Schatz
+schätzen
+e Schätzung
+
+Augenbinde
+Damenbinde
+Sicherungsknopf
+
+[句式]
+Meiner Meinung nach
+Meiner Schätzung nach
+
+20210628
+[Akkusativ]
+ich möchte mich scheiden lassen.
+ich freue mich darüber.
+
+[Dativ]
+es tut mir gut.
+es gefällt mir gut.
+es tut mir sehr leid.
+
+ich kann mein schlechtes Deutsch nicht aussetehen.
+
+[相似]
+r Richter	法官
+r Schiedsrichter	裁判
+
+entscheiden	决定
+scheiden	离婚
+
+Ich entscheide, mich scheiden zu lassen
+
+[名言]
+Was mich nicht umbringt macht mich stärker. --Nietsche
+Dem geschenkten Gaul schaut man nicht ins Maul.
+
+[Familienname]
+Müller	磨坊工
+Bäcker	面包师
+Spinner	纺织工
+Schneider	裁缝
+Schumacher	鞋匠
+Schmied	铁匠
+Schreiner	木匠
+Gärtner	园丁
+Fischer	渔夫
 
 20210626
 
@@ -65,13 +160,25 @@ e Landwirtschaft	农业
 e Wissenschaft	科学
 
 [词根] weise
-Normalerweise
+normalerweise	通常
 
+
+[词根] mäßig
+regelmäßig	定期的
 
 [说不上来的话]
 Wirtschaftkrise	经济危机
 s Fell	皮毛
 e Überlebenstechnik	生存技能
+
+pommes frites
+flat rate
+biontech
+nike
+
+Pandemie
+
+headset
 
 
 20210608

@@ -1,8 +1,12 @@
 keywords: 
 (ay) (aw) (ight) (age) (ace) (ry)
 (en) (acronymize) (rhyme) (double)
-[发音]
+[发音] [难辨]
 ----------------------------------------------------------------
+20210702
+good things come to those who wait.
+essentials	本质
+
 20210623
 (ry)
 cry
@@ -14,14 +18,18 @@ try
 outsourcing 外包
 nearshoring	近岸外包
 
-freelance	自由职业者
+freelance	自由职业
 upwork.com	外包平台
 
 
 20210618
 (ace)
-fast pace
-space race
+fast pace in space race
+pace
+space
+race
+lace
+face
 
 20210613
 stimulate	刺激
@@ -36,6 +44,7 @@ carrot pomace	胡萝卜渣
 20210612
 ASAP	As soon as possible
 FYI		For Your Information
+Never touch running system
 
 My cellphone ran out of credit.	没钱了。
 I am out of data.	没流量了。
@@ -98,6 +107,8 @@ might
 right
 fight
 flight
+fright
+night
 
 (age) [ɪdʒ]
 message
@@ -159,7 +170,7 @@ Information Communication Technology
 
 20210303
 (en)
-脱口秀	talk show
+脱口秀	talk-show
 麦克风	microphone
 秀		show
 趴		party
@@ -173,6 +184,7 @@ Information Communication Technology
 镭射	laser
 迷你	mini
 败		buy
+蹦极	bungee-jumping
 
 20210221
 PUA Pick-Up Artist	泡妞高手
@@ -540,6 +552,7 @@ Fast Moving Consumer Goods
 
 
 20170918
+[难辨]
 custom	风俗，定制的
 customs	海关
 customer顾客
