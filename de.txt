@@ -1,6 +1,11 @@
 (chs) (ch)
 [词性] [相似] [Dativ] [词根] [说不上来的话] [Abkürzung] [法语] [Familienname] [名言] [Akkusativ] [Dativ] [句式] [难辨]
 
+20210719
+r Scheinwerfer	车大灯
+r Scheibenwischer	雨刷
+r Sicherheitsgurt	安全带
+
 20210716
 Verkehrsmittel
 s Auto
@@ -173,7 +178,8 @@ normalerweise	通常
 regelmäßig	定期的
 
 [词根] mittel
-Verkehrsmittel	交通工具
+s Verkehrsmittel	交通工具
+s Lebensmittel	食物，食材	
 
 [说不上来的话]
 Wirtschaftkrise	经济危机
