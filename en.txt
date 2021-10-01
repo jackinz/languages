@@ -3,6 +3,10 @@ keywords:
 (en) (acronymize) (rhyme) (double)
 [发音] [难辨]
 ----------------------------------------------------------------
+20210802
+enthusiasm	热情
+Success is the ability to go from failure to failure without losing enthusiasm.
+
 20210702
 good things come to those who wait.
 essentials	本质
